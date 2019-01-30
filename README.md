@@ -1,5 +1,3 @@
-# Unicameral Ontology
-
 Hello, and welcome to my web site.
 
 ## Projects
